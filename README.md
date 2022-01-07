@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tobias Ritscher
+- 🌱 I’m currently studying IT
+- 📫 How to reach me ...
